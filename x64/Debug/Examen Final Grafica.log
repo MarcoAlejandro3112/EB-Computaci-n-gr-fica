@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\glfw-3.3.4\include\glutil.h(167,1): warning C4267: 'argumento': conversión de 'size_t' a 'const i32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(88,12): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(89,12): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(94,11): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(95,11): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(107,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(122,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(124,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(125,11): warning C4244: 'inicializando': conversión de 'u32' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(127,11): warning C4244: 'inicializando': conversión de 'u32' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(140,23): warning C4244: 'argumento': conversión de 'double' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(141,23): warning C4244: 'argumento': conversión de 'double' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(186,20): warning C4244: 'inicializando': conversión de 'double' a 'f32'; posible pérdida de datos
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(276,17): warning C4305: '-=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\p264\source\repos\Examen Final Grafica\Examen Final Grafica\Source.cpp(304,43): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+  Examen Final Grafica.vcxproj -> C:\Users\p264\source\repos\Examen Final Grafica\x64\Debug\Examen Final Grafica.exe
